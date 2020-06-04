@@ -1,2 +1,2 @@
-for i in range(13):
-    print("멋쟁이사자처럼\n")
+for i in range(12):
+    print("branch2\n")
